@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_menu1"
+        android:title="已点菜单"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_menu2"
+        android:title="查看订单"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_menu3"
+        android:title="呼叫服务"
+        app:showAsAction="never"/>
+</menu>
